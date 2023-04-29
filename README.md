@@ -6,7 +6,7 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 
 The datasets used were gathered from a compiled archive containing basic tweet data for over 5000 of WeRateDogs tweets, querying Twitter's API to gather more tweet data from the WeRateDogs account, and an image prediction file containing prediction data gotten from running images of dogs from the archive through a neural network that can classify breeds of dog.
 
-The datasets were then read in dataframes and assesed visually and programmatically after which the tidiness and data quality isssues were addressed. Some of the issues addreesed include false breed predictions by the neural network, dog stages represented in more than a column, incorrect dog names, disorganized prediction algorithm confidence, unessential features, nulls as well as duplicates. After wrangling, the resulting dataset had 13 features of about 1700 tweets.
+The datasets were then read in dataframes and assesed visually and programmatically after which the tidiness and data quality isssues were addressed. Some of the issues addressed include false breed predictions by the neural network, dog stages represented in more than a column, incorrect dog names, disorganized prediction algorithm confidence, unessential features, nulls as well as duplicates. After wrangling, the resulting dataset had 13 features of about 1700 tweets.
 
 ## Summary of Findings
 
