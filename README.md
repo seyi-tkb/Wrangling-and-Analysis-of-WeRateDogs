@@ -11,7 +11,7 @@ The datasets were then read in dataframes and assesed visually and programmatica
 ## Summary of Findings
 
 Although more focus was placed on wrangling, some of the insights gotten fom exploration are given below:
-* There was actually a strong positive correlation between the amount of likes a rating tweet got and the amount of retweets on it.
+* There was a strong positive correlation between the amount of likes a rating tweet got and the amount of retweets on it.
 * Each dog rating tweet by the WeRateDogs account had 9288 likes and 2834 retweets on an average.
 * Amongst the 4 dog stages tweeted, dogs in the pupper stage got tweeted and rated regularly. They were followed by dogs in doggo, puppo and floofer stages respectively.
 * A lakeland terrier with a rating of 13/10 was the most liked dog with approximately 133k likes.
